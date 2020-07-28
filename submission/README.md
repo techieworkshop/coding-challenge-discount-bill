@@ -6,6 +6,7 @@ git clone https://github.com/techieworkshop/discount-coding-challenge.git
 
 ### Create new branch
 go to inside discount-coding-challenge folder
+cd discount-coding-challenge
 git checkout -b <firstname_lastname>
 
 ### Push new branch to remote
@@ -18,7 +19,11 @@ git push origin <firstname_lastname>
 Write code to complete given assignment and keep it inside newly created folder
 
 ### Save/Commit your changes to git
+git add --a
 git commit -a -m "your change message in one line"
+
+### Push your changes to remote
+git push origin <firstname_lastname>
 
 ### Create Pull Request
 * open link - https://github.com/techieworkshop/discount-coding-challenge
