@@ -36,4 +36,4 @@ Following are the input and expected output
 If you have written code for the above requirement, you can submit to GitHub. [How to submit?]
 
 
-[How to submit?]: https://www.techieworkshop.in
+[How to submit?]: https://github.com/techieworkshop/discount-coding-challenge/tree/master/submission
