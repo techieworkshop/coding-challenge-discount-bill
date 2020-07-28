@@ -1,4 +1,4 @@
-# TechieWorkshop - Coding Challenge on billing discount
+# TechieWorkshop - Coding Challenge to get Discount on bill
 A coding challenge to get bill after applying discount based on customer type and amount
 
 
