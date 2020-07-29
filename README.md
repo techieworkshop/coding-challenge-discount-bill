@@ -33,7 +33,7 @@ Following are the input and expected output
 * Programming languages - Core Java/C++
 * No database or file is required
 
-If you have written code for the above requirement, you can submit to GitHub. [How to submit?]
+Try to solve above challenge and submit to GitHub. [How to submit?]
 
 
 [How to submit?]: https://github.com/techieworkshop/discount-coding-challenge/tree/master/submission
