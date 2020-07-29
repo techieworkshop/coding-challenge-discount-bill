@@ -3,7 +3,7 @@ A coding challenge to get bill after applying discount based on customer type an
 
 ### Clone Coding Challenge Repository
 ```sh
-git clone https://github.com/techieworkshop/discount-coding-challenge.git
+$ git clone https://github.com/techieworkshop/discount-coding-challenge.git
 ```
 
 ### Create new branch
@@ -14,7 +14,7 @@ $ git checkout -b <firstname_lastname>
 
 ### Push new branch to remote
 ```sh
-git push origin <firstname_lastname>
+$ git push origin <firstname_lastname>
 ```
 
 ### Create Folder inside submission folder
@@ -25,13 +25,13 @@ git push origin <firstname_lastname>
 
 ### Save/Commit your changes to git
 ```sh
-git add --a
-git commit -a -m "your change message in one line"
+$ git add --a
+$ git commit -a -m "your change message in one line"
 ```
 
 ### Push your changes to remote
 ```sh
-git push origin <firstname_lastname>
+$ git push origin <firstname_lastname>
 ```
 
 ### Create Pull Request in GitHub
